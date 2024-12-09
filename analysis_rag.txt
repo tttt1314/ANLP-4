@@ -1,0 +1,58 @@
+
+
+KL Divergence Analysis(Best 10)
+----------------------
+1. Someone is playing an acoustic guitar finger picking a melody. On top of that, a distorted e-guitar is playing a solo melody with delay on it. This song may be playing at home creating a song in a DAW.
+2. Someone is strumming an acoustic guitar while playing a fingerstyle melody and percussive sounds. This is an amateur recording. This song may be playing at a bonfire.
+3. This is an instrumental kids song. There is a xylophone and a music box playing a cute and cheerful melody. The atmosphere of the piece is cozy and relaxing. This piece could be used as a backing track for a nursery rhyme. It could be used in the soundtrack of a movie targeted at children.
+4. This music is a Didgeridoo solo instrumental. The tempo is slow with a steady, vibrating drone like harmony with no accompaniment. The music is an intense, monotone , low pitched,incessant buzz like vibrations. It is unique with a captivating, alluring and hypnotic vibe.
+5. This music is a captivating Piano solo melody. The tempo is medium fast with no accompaniment. The suit is mellow, captivating , pleasant, soothing , engaging, charming and ambient. This music is a Classic Piano piece that sounds like the melody of a Hymn.
+6. This music is an electric guitar lead instrumental. The tempo is slow with no accompaniment and ambient sounds like a popping and swishing sound. The music is a rhythmic, controlled, pleasant, melancholic, sentimental and emotional Electric guitar solo.
+7. This music is an enthralling Sitar instrumental. The tempo is fast with an animated and melodic Sitar lead Harmony and tanpura accompaniment. The music is based on Hindustani Classical notes. It is captivating, intense, mellifluous, engaging,and fervent.
+8. A piano is playing a ballad composition with a lot of reverb. This song may be playing as background music.
+9. This instrumental clip features a theremin being played. This is backed by acoustic plucking chords. There is no percussion in this song. There are no voices in this song. This is a slow tempo song and the melody is haunting. This song can be used in a dream sequence in a movie.
+10. The excerpt features an electric guitar playing a descending melody note by note with a slight distortion effect on. This doesn't sound like actual music but more like an exercise.
+
+
+CLAP Analysis(Best 10)
+----------------------
+1. The song is an instrumental. The song is medium tempo with a sitar playing solo, tabla playing percussively and other Indian percussion instruments. The song is emotional and poignant. The audio quality is very ordinary.
+2. The music features an electric guitar playing what sounds to be a solo over a backing track or an actual recording of a song. The notes played in this passage are played fast. The vocabulary used by the guitarist resembles that of the jazz-fusion genre.
+3. This is a classical music waltz piece played on a glass harp instrument. The melody is being played on the smaller glasses at a higher pitch while the rhythm is being played on the bigger glass at a medium pitch. The piece is being played at a cathedral which gives a nice resonance and natural reverb effect. The piece has a unique character. It can be played in the soundtracks of children's movies/TV shows.
+4. A male ukulele player plays this emotional solo. The song is medium tempo with no other instrumentation than an ukulele playing. The song is emotional and poignant. The song is an instrumental tune.
+5. The instrumental latin music features a big band. The trumpets, saxophones and trombones play the same melody but on different pitches. The percussion section includes a drum kit played in the latin style and a pair of congas. A piano accompanies the brass section and blends in with the rest of the band. An electronic sound can be heard playing the same note throughout the music excerpt.
+6. The song is an instrumental. The song is medium tempo with a flute paging embody, various stringed instruments playing in harmony and no percussion. The song is passionate and emotional. The audio quality is average .
+7. This is the performance of an Irish folk song using a banjo and a mandolin. The singer is elderly and the guitars are layered. The banjo is used to play a simple motif that revolves around two chords.
+8. The song is an instrumental tune. The song is medium tempo with a steady drumming rhythm, groovy bass line, trumpets playing, brass band section and keyboard harmony. The song is exciting and energetic. The song is a tv show tune and has fun jazz roots.
+9. This is the live recording of a didgeridoo concert. The didgeridoo is being played at a wide variety of frequency ranges. There is a raw feel to this piece. The sound has tribal characteristics. The sounds from this recording could be sampled for use in beat-making.
+10. This is a classical orchestral piece. The melody played on the trumpets feels like a prelude to an important, impressive moment. This music would suit any momentous occasion - like the countdown to a rocket launch.
+----------------------
+----------------------
+
+
+KL Divergence Analysis(Worst 10)
+----------------------
+1. The excerpt starts off with a brief silence after which a sound effect and two metallic sounds can be heard. After this section comes another brief silence and then a kind of light club/electronic music starts to play for a few seconds. Adding all of this up it sounds as if this isn't an actual song but rather background music and sound effects for a presentation of some sorts.
+2. The low quality recording features a kids song played through a toy and it consists of childish vocal singing over groovy piano chords and funky guitar melody. It is noisy, in mono and it sounds happy, fun, but also thin, messy, muffled and crushed.
+3. This recording is of very poor audio-quality. The sub bass is strongly over-driving the recorder's speaker. You can also hear a digital drum and a male voice singing in the mid to high range. This song may be playing in a club.
+4. These are sounds coming from a film. There is an ambient atmosphere of birds singing. There is a velcro ripping sound. These sounds could be sampled to be used in soundboards or in beat-making.
+5. The clip is a combination of various sound effects. There's a general atmospheric buzz of crowd chatter, and there are various beeping and buzzing sounds in the clip. The clip ends with a loud, slamming thud.
+6. The low quality recording features a muffled trumpet melody playing. There is a random male laughing sound. The recording is very noisy and in mono. It sounds like an intro of a video.
+7. Something like a jukebox or kid's toy is playing a sweet melody for babies while in the foreground a real baby is making noises with its voice. This seems to be an amateur recording. This song may be played to entertain a baby.
+8. The song is an instrumental piece with various tracks. The song is medium tempo with a piano accompaniment, groovy bass line , steady drumming track, a male sighing in pleasure and water filling a bottle tone. The song is a mix bag of music tracks for various scenes. The song is an instrumental track for a funny YouTube video.
+9. The low quality recording features mono sounds of beeping sound effects, scissors sound effects and some wooden foley effects. It is obviously a video game sound effect, but the sound quality is low since it does not have much depth to it.
+10. This is a series of clips - a compilation. The compilation is separated by the telephone beep tone. One of the clips is orchestral strings playing a motif that would be used when something shocking or suspenseful happens. The other clip contains a jazzy saxophone motif. There is also a sultry woman speaking sassily with some upbeat percussion under her vocal.
+
+
+CLAP Analysis(Worst 10)
+----------------------
+1. There is a low sound that reminds of a heartbeat rising in tempo before a splash-like metallic sound with reverb comes in and breaks the atmosphere in half. This audio may be used for a movie scene. This audio is in poor quality.
+2. The music features a female voice singing while being backed by another female voice. The instrumental consists of only one acoustic guitar that strums chords. At one point the crowd is screaming/cheering. The sound of the recording plus the cheering crowd makes me think that this was recorded at a live event.
+3. This is an amateur recording of a boy singing along to a kids song playing on a TV. It is an educational song with a female voice in the lead. The melody is being played by an acoustic guitar while the rhythm is played by the electronic drums. The quality of the recording is quite poor. Samples lifted from this recording could still be useful in beat-making.
+4. an uprising low modulated sound comes in with a lot of airy noise before a digital drum rhythm is playing. This is an amateur recording. This sequence may be playing at home programming a sampler.
+5. A male singer sings various songs in live audience situations. The songs have a different tempo and are mostly accompanied by a band. The songs are sung at live venues with people screaming and cheering. The songs are modern pop hits , recorded in poor audio quality with hissing noises.
+6. Two male voices are singing loudly together: One backing the other one. A e-guitar can be heard at the end of the phrase. In the background a e-bass and an acoustic drum can be heard but they get overthrown by the sound of the cheering and Screaming crowd. This song may be playing at a live concert.
+7. These are sound effects taken from a movie trailer. There is a container door closing in the beginning. Then a monster can be heard roaring loudly. Numerous other effects were used to create an ominous feeling. The atmosphere is horrifying. Samples from this track can be lifted to be used in beat-making. These samples could also be used in horror movies or video games.
+8. The pop rock music features a male voice singing. An electric guitar with a distortion effect on plays plays two chords every two measures. The drums play a strong rhythm and together with a synth bass drive the pulse of the music.
+9. A male singer sings this emotional song. The song is medium tempo with guitar accompaniment, strong bass line, steady drumming rhythm, violins playing emotional and tambourine percussion. The song is overlapped with sounds of a vehicle engine and Tarmac sounds.
+10. The low quality recording features an acoustic guitar tuning string by string. It sounds a bit harsh and loud. Sounds like a tutorial for tuning a guitar.
